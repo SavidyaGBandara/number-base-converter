@@ -12,10 +12,10 @@ You will be prompted for:
 
 ### Example
 
-Enter the number to convert: 1010
-Enter the base of the given number (e.g., 2, 8, 10): 2
-Enter the base you want to convert to: 10
-10
+- Enter the number to convert: 1010
+- Enter the base of the given number (e.g., 2, 8, 10): 2
+- Enter the base you want to convert to: 10
+- (output) 10
 
 ## Features
 
